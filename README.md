@@ -15,14 +15,14 @@
 
 <hr>
 
-<h2>🎯Project Goal:-s</h2>
+<h2>🎯Project Goals:-</h2>
 <ul>
 <li>🔎 Understand what historical factors (genre, budget, cast, release date, IMDb rating, etc.) correlate with movie financial success.</li> 
-<li>📈 Build predictive models (regression or classification) to estimate a movie’s box-office revenue or success probability before its release. :contentReference[oaicite:1]{index=1}</li> 
-<li>📊 Analyze patterns and trends over time — e.g., how genre preferences, budget-to-revenue ratios, ratings vs revenue relationships change across years. :contentReference[oaicite:2]{index=2}</li> 
-<li>🧰 Provide actionable insights/visual dashboards for studios, producers, marketers — to help them optimize production budget, marketing strategy, release timing, and casting decisions. :contentReference[oaicite:3]{index=3}</li>
- <li>📚 Explore qualitative and quantitative movie attributes (e.g., user ratings, genre, cast, runtime, reviews) to understand their impact on both critical and commercial success. :contentReference[oaicite:4]{index=4}</li>
- <li>🎯 Help stakeholders (producers, investors, and data analysts) reduce risk when green-lighting projects by offering data-driven revenue forecasts and success likelihood assessments. :contentReference[oaicite:5]{index=5}</li> </ul>
+<li>📈 Build predictive models (regression or classification) to estimate a movie’s box-office revenue or success probability before its release.</li> 
+<li>📊 Analyze patterns and trends over time — e.g., how genre preferences, budget-to-revenue ratios, ratings vs revenue relationships change across years.</li> 
+<li>🧰 Provide actionable insights/visual dashboards for studios, producers, marketers — to help them optimize production budget, marketing strategy, release timing, and casting decisions.</li>
+ <li>📚 Explore qualitative and quantitative movie attributes (e.g., user ratings, genre, cast, runtime, reviews) to understand their impact on both critical and commercial success.</li>
+ <li>🎯 Help stakeholders (producers, investors, and data analysts) reduce risk when green-lighting projects by offering data-driven revenue forecasts and success likelihood assessments .</li> </ul>
 </ul>
 
 <hr>
@@ -56,12 +56,12 @@
 
 <h2>🌍 Real-World Applications(IMDb Movie & Sales Analysis):- </h2>
 <ul>
-  <li>🎞️ Studios & Producers – Forecast box-office earnings and Return on Investment (ROI) before production or release, using historical IMDb + revenue + metadata. :contentReference[oaicite:1]{index=1}</li> 
-  <li>📈 Distributors & Marketers – Analyze which genres, release timings, casts, or budgets tend to succeed, to optimize release date, marketing spend, and distribution strategy. :contentReference[oaicite:2]{index=2}</li> 
-  <li>🧠 Data Scientists & Analysts – Use IMDb datasets (ratings, votes, metadata) + box-office/budget data to build predictive models (regression, ML, deep learning) for movie success or failure. :contentReference[oaicite:3]{index=3}</li> 
-  <li>🎯 Content Strategy & Production Planning – Identify emerging trends: which genres, run-times, themes, or “emotional arcs” resonate more with audiences and yield higher returns. :contentReference[oaicite:4]{index=4}</li> 
-  <li>📰 Film Critics / Media Analysts – Use IMDb + box-office data to study relationships/correlations: e.g,. between user-votes or ratings and actual financial performance; examine what factors drive popularity vs profit. :contentReference[oaicite:5]{index=5}</li>
-   <li>👥 Fans & General Public – Explore patterns in movie success, understand market trends (popular genres, typical budgets vs hits), and make data-driven recommendations or predictions about upcoming releases. </li>
+  <li>🎞️ Studios & Producers – Forecast box-office earnings and Return on Investment (ROI) before production or release, using historical IMDb + revenue + metadata.</li> 
+  <li>📈 Distributors & Marketers – Analyze which genres, release timings, casts, or budgets tend to succeed, to optimize release date, marketing spend, and distribution strategy.</li> 
+  <li>🧠 Data Scientists & Analysts – Use IMDb datasets (ratings, votes, metadata) + box-office/budget data to build predictive models (regression, ML, deep learning) for movie success or failure.</li> 
+  <li>🎯 Content Strategy & Production Planning – Identify emerging trends: which genres, run-times, themes, or “emotional arcs” resonate more with audiences and yield higher returns.</li> 
+  <li>📰 Film Critics / Media Analysts – Use IMDb + box-office data to study relationships/correlations: e.g,. between user-votes or ratings and actual financial performance; examine what factors drive popularity vs profit.</li>
+   <li>👥 Fans & General Public – Explore patterns in movie success, understand market trends (popular genres, typical budgets vs hits), and make data-driven recommendations or predictions about upcoming releases.</li>
 </ul>
 
 <hr>
@@ -79,11 +79,11 @@
 <h2>🧭 How to Explore the Dashboard:-</h2>
 <ul>
   <li>Use filter panels to switch between Dates, districts, Mandal, and seasons</li>
-  <li>Use filter panels (e.g., date-range pickers, region/district/category selectors) to refine which subset of data you want to view — this helps focus on relevant periods or segments. :contentReference[oaicite:0]{index=0}</li> 
-  <li>Hover over charts or data points to see tooltips or data labels for more detailed values and context without cluttering the main view. :contentReference[oaicite:1]{index=1}</li> 
+  <li>Use filter panels (e.g., date-range pickers, region/district/category selectors) to refine which subset of data you want to view — this helps focus on relevant periods or segments.</li> 
+  <li>Hover over charts or data points to see tooltips or data labels for more detailed values and context without cluttering the main view.</li> 
   <li>Switch between different analysis tabs or views (for example: Rainfall, Temperature, Humidity, Wind Speed — or equivalent in your domain) to explore different facets of the data. </li> 
-  <li>Use drill-down or click-on-visual features (where available) to dive deeper — e.g, clicking on a bar/region to view underlying data breakdowns. :contentReference[oaicite:2]{index=2}</li> 
-  <li>Reset or clear filters when you want to return to a full or default view. A visible “Reset” or “Clear Filters” button helps ensure users don’t get stuck in a narrow filtered state. :contentReference[oaicite:3]{index=3}</li>
+  <li>Use drill-down or click-on-visual features (where available) to dive deeper — e.g, clicking on a bar/region to view underlying data breakdowns.</li> 
+  <li>Reset or clear filters when you want to return to a full or default view. A visible “Reset” or “Clear Filters” button helps ensure users don’t get stuck in a narrow filtered state.</li>
 </ul>
 
 <h2>📌 In summary:-</h2>
