@@ -36,10 +36,7 @@
   <li>🌍 Regional / Market Analysis — Maps or bar charts/ heat maps: “Revenue by Region / Country”, “Number of Movies by Region”, “ROI by Region / Market”, “Rating by Region” (if applicable). </li>
   <li>📈 Budget vs Revenue & Profitability Analysis — Scatter plots or bar charts: “Budget vs Gross”, “Gross/Budget Ratio by Movie or Studio”, “Profit Margin Distribution”, “Low-Budget High-Return Movies”. </li>
   <li>⭐ Ratings & Audience Reception Analysis — Charts/tables: “IMDb Rating Distribution”, “Rating vs Gross Scatter Plot”, “Votes / Reviews vs Box-Office Performance”. </li>
-  <li>📊 Top Performers & Outliers — Lists/bar charts/tables: “Top 10 Highest Grossing Movies”, “Top Rated Movies vs Box-Office”, “Movies with Highest ROI”, “Underperforming Big-Budget Movies”. </li>
-  <li>📆 Release Timing & Seasonality Analysis — Heat-map or line/bar charts: “Releases by Month/Quarter”, “Revenue by Release Month/Season”, “Success Rate by Release Timing”. </li>
-  <li>📑 Detailed Movie/Profile View (Drill-Down) — When a user selects a movie: show detailed attributes — Title, Year, Genre, Budget, Box-Office Gross, Rating, Votes, ROI, Studio, Director, etc. — and compare to decade or genre averages. </li>
-  <li>🔎 Custom Filter & Segmentation Panel — Filter/slicer controls for Year, Genre, Studio, Region, Budget Range, Rating Range — letting users slice the data to focus on segments of interest. </li>
+  
 </ul>
 
 <hr>
@@ -60,8 +57,6 @@
   <li>📈 Distributors & Marketers – Analyze which genres, release timings, casts, or budgets tend to succeed, to optimize release date, marketing spend, and distribution strategy.</li> 
   <li>🧠 Data Scientists & Analysts – Use IMDb datasets (ratings, votes, metadata) + box-office/budget data to build predictive models (regression, ML, deep learning) for movie success or failure.</li> 
   <li>🎯 Content Strategy & Production Planning – Identify emerging trends: which genres, run-times, themes, or “emotional arcs” resonate more with audiences and yield higher returns.</li> 
-  <li>📰 Film Critics / Media Analysts – Use IMDb + box-office data to study relationships/correlations: e.g,. between user-votes or ratings and actual financial performance; examine what factors drive popularity vs profit.</li>
-   <li>👥 Fans & General Public – Explore patterns in movie success, understand market trends (popular genres, typical budgets vs hits), and make data-driven recommendations or predictions about upcoming releases.</li>
 </ul>
 
 <hr>
