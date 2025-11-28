@@ -18,8 +18,6 @@
 
 ---
 
-<hr>
-
 <h2>🎯Project Goals:-</h2>
 <ul>
 <li>🔎 Understand what historical factors (genre, budget, cast, release date, IMDb rating, etc.) correlate with movie financial success.</li> 
@@ -31,8 +29,6 @@
 </ul>
 
 ---
-<hr>
-
 
 <h2>📊 Key Analysis Sections:-</h2>
 <ul> 
@@ -48,8 +44,6 @@
 
 ---
 
-<hr>
-
 <h2>🛠️ Tools and Technologies:-</h2>
 <ul>
   <li>Power BI Desktop – Visualizations & DAX Power</li>
@@ -59,7 +53,6 @@
 </ul>
 
 ---
-<hr>
 
 <h2>🌍 Real-World Applications(IMDb Movie & Sales Analysis):- </h2>
 <ul>
@@ -71,8 +64,6 @@
 
 ---
 
-<hr>
-
 <h2>📁 Dataset Details:-</h2>
 <ul>
   <li>Data Source: Movie Sales Analysis Records (Simulated Dataset)</li> 
@@ -82,8 +73,6 @@
 </ul>
 
 ---
-
-<hr>
 
 <h2>🧭 How to Explore the Dashboard:-</h2>
 <ul>
