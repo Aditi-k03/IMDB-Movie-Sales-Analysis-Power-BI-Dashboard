@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c8bcac37-2523-4992-9872-3a64573d3282" />  IMDB Movie Sales Analysis: A Power BI Dashboard</h1>
+<h1 align="center"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c8bcac37-2523-4992-9872-3a64573d3282" />  IMDB Movie Sales Analysis: A Power BI Dashboard</h1>
 
 <h2>📄 Project Description:-</h2>
 <p>
