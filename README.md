@@ -9,10 +9,14 @@
 <h1 align="center"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c8bcac37-2523-4992-9872-3a64573d3282" />  IMDB Movie Sales Analysis: A Power BI Dashboard</h1>
 <p align="center"><i>Comprehensive analysis of movies — ratings, box office, genre, and trends from IMDB / Box Office data</i></p>
 
+---
+
 <h2>📄 Project Description:-</h2>
 <p>
   This project uses data from IMDb (and other relevant movie & box-office sources) to explore and analyze movie and box-office performance. It visualizes patterns like revenue, budget, ratings, genre, release timing, and other metadata to uncover what drives the success (or failure) of films. The insights aim to support data-driven decisions for producers, studios, marketers, and analysts — for example, in forecasting revenue, guiding production/budget choices, and optimizing release strategy.
 </p>
+
+---
 
 <hr>
 
@@ -26,7 +30,9 @@
  <li>🎯 Help stakeholders (producers, investors, and data analysts) reduce risk when green-lighting projects by offering data-driven revenue forecasts and success likelihood assessments .</li> </ul>
 </ul>
 
+---
 <hr>
+
 
 <h2>📊 Key Analysis Sections:-</h2>
 <ul> 
@@ -40,6 +46,8 @@
   
 </ul>
 
+---
+
 <hr>
 
 <h2>🛠️ Tools and Technologies:-</h2>
@@ -50,6 +58,7 @@
   <li>DAX – Measures & calculated columns</li>
 </ul>
 
+---
 <hr>
 
 <h2>🌍 Real-World Applications(IMDb Movie & Sales Analysis):- </h2>
@@ -60,6 +69,8 @@
   <li>🎯 Content Strategy & Production Planning – Identify emerging trends: which genres, run-times, themes, or “emotional arcs” resonate more with audiences and yield higher returns.</li> 
 </ul>
 
+---
+
 <hr>
 
 <h2>📁 Dataset Details:-</h2>
@@ -69,6 +80,8 @@
   <li>Features: Count of titles, genres, actors, directors, and average runtime.</li>
   <li>KPI Tracking: Target vs. actual revenue, including % overachievement.</li>
 </ul>
+
+---
 
 <hr>
 
@@ -81,6 +94,8 @@
   <li>Use drill-down or click-on-visual features (where available) to dive deeper — e.g, clicking on a bar/region to view underlying data breakdowns.</li> 
   <li>Reset or clear filters when you want to return to a full or default view. A visible “Reset” or “Clear Filters” button helps ensure users don’t get stuck in a narrow filtered state.</li>
 </ul>
+
+---
 
 <h2>📌 In summary:-</h2>
 <p>
