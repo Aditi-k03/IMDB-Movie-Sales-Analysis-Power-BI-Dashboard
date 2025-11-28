@@ -85,7 +85,15 @@
 <h2>📌 In summary:-</h2>
 <p>
   This analysis provides a comprehensive understanding of factors influencing movie ratings on IMDB. The findings can guide future movie productions in choosing genres, directors, and budgeting to optimize success. Ongoing analysis and additional factors such as marketing, release timing, and audience demographics can further refine these insights.
-
 </p>
+
+---
+
+<h2>🔗 Connect with Me</h2>
+<ul>
+  <li>📧 Email: aditi.khade99@gmail.com</li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aditi-khade-2a69bb274" target="_blank"> https://www.linkedin.com/in/aditi-khade-2a69bb274/</a></li>
+</ul>
+
 </body>
 </html> 
